@@ -14,7 +14,7 @@ app.use('/images', express.static(path.join(__dirname, 'images')));
 const BASE_URL = "https://share.ai-eg.online"; 
 
 // Replace this with your actual Facebook App ID.
-const FACEBOOK_APP_ID = "2067909173723759"; 
+const FACEBOOK_APP_ID = ""; 
 
 // =================================================================
 
